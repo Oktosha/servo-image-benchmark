@@ -10,3 +10,8 @@ This repository contains some benchmarks comparing decoding speed on a variety o
 + [libpng](http://www.libpng.org/pub/png/libpng.html)
 + [libjpeg-turbo](http://libjpeg-turbo.virtualgl.org/)
 
+# Test images
+
++ [png](http://www.schaik.com/pngsuite/)
++ [jpg](http://imagecompression.info/test_images/)
+
