@@ -14,15 +14,15 @@ You can follow where I am
 
 + Write & compile a helloworld
 
-+ Understand language feautures used in sample [rust benchmark](https://doc.rust-lang.org/book/benchmark-tests.html)
++ Understand language features used in sample [rust benchmark](https://doc.rust-lang.org/book/benchmark-tests.html)
 
-+ Write & compile sample bencmark
++ Write & compile sample benchmark
 
 # 2. RUST IMAGE BENCHMARK PNG
 
 + Write an simple program that decodes png (how I understand that it works? GUI on RUST is difficult)
 
-+ Write a bencmark which calls decode png function
++ Write a benchmark which calls decode png function
 
 + Describe how to run the benchmark in readme
 
@@ -42,7 +42,7 @@ You can follow where I am
 
 # 4. RUST IMAGE BENCHMARK JPG
 
-+ Write a bencmark which calls decode jpg function
++ Write a benchmark which calls decode jpg function
 
 + Describe how to run the benchmark in readme
 
