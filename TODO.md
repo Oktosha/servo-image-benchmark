@@ -16,15 +16,15 @@ You can follow where I am
 
 + Understand language features used in sample [rust benchmark](https://doc.rust-lang.org/book/benchmark-tests.html)
 
-+ Write & compile sample benchmark
++ Write & compile sample benchmark test
 
 # 2. RUST IMAGE BENCHMARK PNG
 
-+ Write an simple program that decodes png (how I understand that it works? GUI on RUST is difficult)
++ Write an simple program that decodes png (how will I understand that it works? GUI on RUST is difficult)
 
-+ Write a benchmark which calls decode png function
++ Write a benchmark test which calls decode png function
 
-+ Describe how to run the benchmark in readme
++ Describe how to run the benchmark test in readme
 
 # 3. C++ (or C?) PNG
 
@@ -32,19 +32,19 @@ You can follow where I am
 
 + Write a program that [decodes a png](http://www.libpng.org/pub/png/book/chapter13.html)
 
-+ Write sample benchmark with [hayai](https://github.com/nickbruun/hayai)
++ Write sample benchmark test with [hayai](https://github.com/nickbruun/hayai) or [google benchmark](https://github.com/google/benchmark)
 
-+ Wrap the decoder into benchmark
++ Wrap the decoder into benchmark test
 
-+ Write a guide for running png benchmark
++ Write a guide for running png benchmark test
 
 + Write a result of comparison of libpng and image
 
 # 4. RUST IMAGE BENCHMARK JPG
 
-+ Write a benchmark which calls decode jpg function
++ Write a benchmark test which calls decode jpg function
 
-+ Describe how to run the benchmark in readme
++ Describe how to run the benchmark test in readme
 
 # 5. C++ (or C?) JPG
 
@@ -52,8 +52,8 @@ You can follow where I am
 
 + Write a program that decodes a jpg
 
-+ Wrap the decoder into benchmark
++ Wrap the decoder into benchmark test (use tjbench?)
 
-+ Write a guide for running png benchmark
++ Write a guide for running png benchmark test
 
 + Write a result of comparison of libjpeg-turbo and image
